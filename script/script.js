@@ -4,7 +4,7 @@ const navbarNav = document.querySelector(".navbar-nav");
 document.querySelector("#menu").onclick = () => {
   navbarNav.classList.toggle("active");
 };
-// //  Toagle class active - search form
+//  Toagle class active - search form
 const searchForm = document.querySelector(".search-form");
 const searchBox = document.querySelector("#search-box");
 
